@@ -128,7 +128,7 @@ if (!$filmAll) {
                     <div class="search-bar">
                         <div class="search-bar-tablecell">
                             <h3>Search For Movie:</h3>
-                            <form action="search.php" method="get">
+                            <form action="../search.php" method="get">
                                 <input type="text" placeholder="Keywords" name="title">
                                 <button type="submit">Search <i class="fas fa-search"></i></button>
                             </form>

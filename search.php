@@ -64,7 +64,7 @@ endif;
                     <div class="main-menu-wrap">
                         <!-- logo -->
                         <div class="site-logo">
-                            <a href="index.php">
+                            <a href="admin/index.php">
                                 <h3 class="text-white">
                                 Vinemaket
                                 <p class="text-white">Movie Cinema Ticket</p>
